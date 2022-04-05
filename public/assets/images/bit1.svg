@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="243" viewBox="0 0 402 243">
+  <g id="Rectangle_352" data-name="Rectangle 352" transform="translate(2 2)" fill="rgba(13,7,45,0)" stroke="#403a6a" stroke-width="2">
+    <path d="M6,0H392a6,6,0,0,1,6,6V239a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+    <path d="M6-1H392a7,7,0,0,1,7,7V239a1,1,0,0,1-1,1H0a1,1,0,0,1-1-1V6A7,7,0,0,1,6-1Z" fill="none"/>
+  </g>
+</svg>

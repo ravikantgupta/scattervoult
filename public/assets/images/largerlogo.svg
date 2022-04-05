@@ -1,0 +1,16 @@
+<svg id="Group_16233" data-name="Group 16233" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99.912" height="114.682" viewBox="0 0 99.912 114.682">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#34b3f9"/>
+      <stop offset="1" stop-color="#15d2e6"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_13" data-name="Path 13" d="M429.784,375.368l39.109,22.445v44.779l-39.109,22.446-39.11-22.446V397.814l39.11-22.445m0-12.506-49.956,28.67v57.341l49.956,28.67,49.956-28.67V391.532l-49.956-28.67Z" transform="translate(-379.828 -362.862)" fill="url(#linear-gradient)"/>
+  <g id="Path_14" data-name="Path 14" transform="translate(-412.863 -400.781)" fill="none">
+    <path d="M489.129,473.221v-30.2l-26.309-15.1-26.309,15.1v30.2l26.309,15.1Z" stroke="none"/>
+    <path d="M 462.8194274902344 479.0964965820312 L 481.1288757324219 468.5885009765625 L 481.1288757324219 447.6550598144531 L 462.8194274902344 437.1470642089844 L 444.510009765625 447.6550598144531 L 444.510009765625 468.5885009765625 L 462.8194274902344 479.0964965820312 M 462.8194274902344 488.3203735351562 L 436.510009765625 473.2210998535156 L 436.510009765625 443.0224609375 L 462.8194274902344 427.9231567382812 L 489.1288757324219 443.0224609375 L 489.1288757324219 473.2210998535156 L 462.8194274902344 488.3203735351562 Z" stroke="none" fill="#04dcdf"/>
+  </g>
+  <line id="Line_1" data-name="Line 1" x2="22.557" y2="12.629" transform="translate(27.399 44.712)" fill="none" stroke="#04dcdf" stroke-width="8"/>
+  <line id="Line_2" data-name="Line 2" x1="22.557" y2="12.629" transform="translate(49.956 44.712)" fill="none" stroke="#04dcdf" stroke-width="8"/>
+  <line id="Line_3" data-name="Line 3" y1="25.852" transform="translate(49.956 57.341)" fill="none" stroke="#04dcdf" stroke-width="8"/>
+</svg>
